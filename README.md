@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Activity
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busisoms&layout=compact&theme=vision-friendly-dark&hide=html)](https://github.com/busisoms)
-[![GitHub Streak](https://streak-stats.demolab.com?user=busisoms&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=busisoms)](https://git.io/streak-stats)
 
 ## 💡 Core Competencies
 - **Full-Stack Development**: Building responsive web applications with JavaScript/Python
