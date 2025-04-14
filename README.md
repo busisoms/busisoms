@@ -1,28 +1,42 @@
-### Hi there 👋
-![MasterHead](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
-<h1 align="center">Hi 👋, I'm Busiso</h1>
-<h3 align="center">A Passionate Self-Taught Software Engineering Student | Full-Stack Developer</h3>
-<img class="center" width="1000" height="250" src="https://media.giphy.com/media/aWWvRot5OSRJS/giphy.gif" alt="Welcome">
+# Hi, I'm Busiso Ndumo 👋
 
+**Full-Stack Developer | Systems Automation Engineer | Open Source Contributor**
 
-- 🌱 I’m currently learning **C programming**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/busiso_se)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:busisondumo1@gmail.com)
 
-- 💬 Ask me about **Python, Git, C**
+## 🛠️ Technical Stack
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-Proficient-00599C?logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-Intermediate-4EAA25?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git/GitHub-Expert-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Admin-Intermediate-FCC624?logo=linux&logoColor=black)
 
-- 📫 How to reach me **busisondumo1@gmail.com**
+## 🔍 Current Focus
+- Developing full-stack JavaScript applications
+- Creating system automation tools with Shell scripting
+- Contributing to open source infrastructure projects
+- Enhancing low-level programming expertise in C
 
-- ⚡ Fun fact **I am a passionate cook**
+## 📈 GitHub Activity
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busisoms&layout=compact&theme=vision-friendly-dark&hide=html)](https://github.com/busisoms)
+[![GitHub Streak](https://streak-stats.demolab.com?user=busisoms&theme=dark)](https://git.io/streak-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/busiso_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="busiso_se" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/busiso_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busiso_se" height="30" width="40" /></a>
-<a href="https://discord.gg/1075327439565226004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1075327439565226004" height="30" width="40" /></a>
-</p>
+## 💡 Core Competencies
+- **Full-Stack Development**: Building responsive web applications with JavaScript/Python
+- **System Automation**: Creating efficient Shell scripts for DevOps workflows
+- **Problem Solving**: 3+ years debugging complex systems across stack levels
+- **Continuous Learning**: Completed 800+ hours of technical upskilling
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Recent Achievements
+- Automated deployment processes using Shell scripting (50% time reduction)
+- Built interactive web dashboard with JavaScript/Node.js
+- Contributed to open-source C library optimization
 
-<p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=busisoms&show_icons=true&locale=en&layout=compact" alt="busisoms" /></p>
-<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=busisoms&show_icons=true&locale=en" alt="busisoms" /></p>
-<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=busisoms&" alt="busisoms" /></p>
+## 📬 Collaboration Opportunities
+- **Seeking**: Full-stack roles | DevOps positions | System programming projects
+- **Available**: Immediately for contracts or full-time positions
+- **Best Contact**: [Email](mailto:busisondumo1@gmail.com) or [LinkedIn](https://linkedin.com/in/busiso_se)
+
+> "Bridging high-level application development with low-level system efficiency"
