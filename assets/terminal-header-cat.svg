@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350" role="img" aria-label="Animated Super Mario-style terminal introducing Busiso Ndumo with a walking pixel cat">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace;}
+.cov{animation:type 1s steps(6) .8s forwards}
+@keyframes type{to{transform:translateX(68px)}}
+.cur{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.ln{opacity:0;animation:in .4s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.walk{animation:walk 10s linear 2s infinite;transform:translateX(-40px)}
+@keyframes walk{from{transform:translateX(-40px)}to{transform:translateX(840px)}}
+.jump{animation:jump 10s linear 2s infinite}
+@keyframes jump{0%,61%,69%,100%{transform:translateY(0)}65%{transform:translateY(-20px)}}
+.bob{animation:bob .3s step-end infinite}
+@keyframes bob{50%{transform:translateY(-2px)}}
+.brick{animation:bump 10s linear 2s infinite}
+@keyframes bump{0%,64.5%,67%,100%{transform:translateY(0)}65.5%{transform:translateY(-6px)}}
+.coin{opacity:0;animation:coin 10s linear 2s infinite}
+@keyframes coin{0%,64.9%{opacity:0;transform:translateY(0)}65%{opacity:1;transform:translateY(0)}71%{opacity:1;transform:translateY(-34px)}74%,100%{opacity:0;transform:translateY(-40px)}}
+.c7{animation:hide .01s linear 8.5s forwards}
+.c8{opacity:0;animation:show .01s linear 8.5s forwards}
+@keyframes hide{to{opacity:0}}
+@keyframes show{to{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="799" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="20" r="5" fill="#ff5f56"/><circle cx="40" cy="20" r="5" fill="#ffbd2e"/><circle cx="58" cy="20" r="5" fill="#27c93f"/>
+
+<g transform="translate(28 58)">
+  <g fill="#f85149"><rect x="2" y="1" width="2" height="2"/><rect x="4" y="1" width="2" height="2"/><rect x="8" y="1" width="2" height="2"/><rect x="10" y="1" width="2" height="2"/><rect x="0" y="3" width="2" height="2"/><rect x="2" y="3" width="2" height="2"/><rect x="4" y="3" width="2" height="2"/><rect x="6" y="3" width="2" height="2"/><rect x="8" y="3" width="2" height="2"/><rect x="10" y="3" width="2" height="2"/><rect x="12" y="3" width="2" height="2"/><rect x="0" y="5" width="2" height="2"/><rect x="2" y="5" width="2" height="2"/><rect x="4" y="5" width="2" height="2"/><rect x="6" y="5" width="2" height="2"/><rect x="8" y="5" width="2" height="2"/><rect x="10" y="5" width="2" height="2"/><rect x="12" y="5" width="2" height="2"/><rect x="2" y="7" width="2" height="2"/><rect x="4" y="7" width="2" height="2"/><rect x="6" y="7" width="2" height="2"/><rect x="8" y="7" width="2" height="2"/><rect x="10" y="7" width="2" height="2"/><rect x="4" y="9" width="2" height="2"/><rect x="6" y="9" width="2" height="2"/><rect x="8" y="9" width="2" height="2"/><rect x="6" y="11" width="2" height="2"/></g>
+  <text x="22" y="13" fill="#f85149" font-size="16">x3</text>
+  <circle cx="70" cy="7" r="7" fill="#e3b341"/><rect x="68.5" y="2" width="3" height="10" fill="#9e6a03"/>
+  <text class="c7" x="84" y="13" fill="#e3b341" font-size="16">07</text>
+  <text class="c8" x="84" y="13" fill="#e3b341" font-size="16">08</text>
+  <text x="122" y="13" fill="#79c0ff" font-size="16">WORLD ~/busiso</text>
+  <path d="M290 0l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.6-4.8 2.6.9-5.4-3.9-3.8 5.4-.8z" fill="#e3b341"/>
+</g>
+
+<text x="28" y="100" font-size="16"><tspan fill="#f85149">➤</tspan><tspan fill="#e6edf3" dx="10">whoami</tspan></text>
+<rect class="cov" x="45" y="84" width="68" height="22" fill="#0d1117"/>
+<rect class="cur" x="108" y="86" width="9" height="18" fill="#e6edf3" opacity=".8"/>
+
+<g class="ln" style="animation-delay:2s"><text x="28" y="140" fill="#f0f6fc" font-size="24" font-weight="bold">Busiso Ndumo</text></g>
+<g class="ln" style="animation-delay:2.4s"><text x="28" y="168" fill="#8b949e" font-size="15">Software Developer · WeThinkCode_ Student</text></g>
+<g class="ln" style="animation-delay:2.8s"><path d="M33 182a5 5 0 0 1 10 0c0 4-5 9-5 9s-5-5-5-9z" fill="#3fb950"/><circle cx="38" cy="182" r="1.8" fill="#0d1117"/><text x="52" y="192" fill="#8b949e" font-size="15">Johannesburg, South Africa</text></g>
+<g class="ln" style="animation-delay:3.2s"><text x="28" y="226" fill="#c9d1d9" font-size="15">Languages: Java · Python · C · JavaScript</text><text x="28" y="246" fill="#c9d1d9" font-size="15">I enjoy understanding why systems work, not just how.</text></g>
+<g class="ln" style="animation-delay:3.6s"><text x="28" y="278" font-size="15"><tspan fill="#e3b341">Philosophy:</tspan><tspan fill="#c9d1d9"> Keep learning. Keep building.</tspan></text></g>
+
+<g transform="translate(0 -150)">
+<rect x="0" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="32" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="64" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="96" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="128" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="160" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="192" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="224" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="256" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="288" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="320" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="352" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="384" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="416" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="448" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="480" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="512" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="544" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="576" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="608" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="640" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="672" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="704" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="736" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/><rect x="768" y="484" width="31" height="14" fill="#2b1d12" stroke="#5a3a20" stroke-width="1"/>
+<g class="brick"><rect x="532" y="412" width="30" height="16" fill="#9a5b2e" stroke="#5a3a20"/><path d="M532 420h30M547 412v8M540 420v8M555 420v8" stroke="#5a3a20"/></g>
+<g class="coin"><circle cx="547" cy="402" r="7" fill="#e3b341"/><rect x="545.5" y="397" width="3" height="10" fill="#9e6a03"/></g>
+<g class="walk"><g class="jump"><g transform="translate(0 448)"><g class="bob">
+<!-- Pixel-art ginger cat, moving and jumping with the original animation -->
+<!-- tail -->
+<rect x="0" y="17" width="5" height="5" fill="#b8682d"/>
+<rect x="0" y="12" width="5" height="5" fill="#b8682d"/>
+<rect x="4" y="9" width="5" height="5" fill="#d9813b"/>
+<!-- body and feet -->
+<rect x="7" y="17" width="24" height="13" fill="#d9813b"/>
+<rect x="10" y="27" width="7" height="7" fill="#a85525"/>
+<rect x="24" y="27" width="7" height="7" fill="#a85525"/>
+<rect x="12" y="22" width="15" height="7" fill="#f1bf81"/>
+<!-- ears -->
+<rect x="8" y="1" width="8" height="12" fill="#d9813b"/>
+<rect x="26" y="1" width="8" height="12" fill="#d9813b"/>
+<rect x="10" y="4" width="4" height="6" fill="#ff9eb2"/>
+<rect x="28" y="4" width="4" height="6" fill="#ff9eb2"/>
+<!-- face -->
+<rect x="7" y="9" width="29" height="17" fill="#e49346"/>
+<rect x="12" y="15" width="5" height="5" fill="#17202b"/>
+<rect x="27" y="15" width="5" height="5" fill="#17202b"/>
+<rect x="19" y="19" width="5" height="4" fill="#ff9eb2"/>
+<rect x="16" y="24" width="3" height="2" fill="#fff1da"/>
+<rect x="24" y="24" width="3" height="2" fill="#fff1da"/>
+<!-- stripes -->
+<rect x="18" y="10" width="3" height="5" fill="#a85525"/>
+<rect x="23" y="10" width="3" height="5" fill="#a85525"/>
+</g></g></g></g>
+</g>
+</svg>
