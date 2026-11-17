@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350" role="img" aria-label="Animated Super Mario-style terminal introducing Busiso Ndumo with a walking pixel cat">
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace;}
-.cov{animation:type 1s steps(6) .8s forwards}
-@keyframes type{to{transform:translateX(68px)}}
+.cov{animation:type 20s .8s infinite}
+@keyframes type{0%{transform:translateX(0);animation-timing-function:steps(6)}5%,96%{transform:translateX(68px);animation-timing-function:steps(6)}98%,100%{transform:translateX(0)}}
 .cur{animation:blink 1s step-end infinite}
 @keyframes blink{50%{opacity:0}}
-.ln{opacity:0;animation:in .4s ease-out forwards}
-@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.ln{opacity:0;animation:in 20s ease-out infinite}
+@keyframes in{0%{opacity:0;transform:translateY(6px)}2%,82%{opacity:1;transform:none}84%,100%{opacity:0;transform:none}}
 .walk{animation:walk 10s linear 2s infinite;transform:translateX(-40px)}
 @keyframes walk{from{transform:translateX(-40px)}to{transform:translateX(840px)}}
 .jump{animation:jump 10s linear 2s infinite}
@@ -17,10 +17,10 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mon
 @keyframes bump{0%,64.5%,67%,100%{transform:translateY(0)}65.5%{transform:translateY(-6px)}}
 .coin{opacity:0;animation:coin 10s linear 2s infinite}
 @keyframes coin{0%,64.9%{opacity:0;transform:translateY(0)}65%{opacity:1;transform:translateY(0)}71%{opacity:1;transform:translateY(-34px)}74%,100%{opacity:0;transform:translateY(-40px)}}
-.c7{animation:hide .01s linear 8.5s forwards}
-.c8{opacity:0;animation:show .01s linear 8.5s forwards}
-@keyframes hide{to{opacity:0}}
-@keyframes show{to{opacity:1}}
+.c7{animation:hide 10s step-end 2s infinite}
+.c8{opacity:0;animation:show 10s step-end 2s infinite}
+@keyframes hide{0%{opacity:1}65%{opacity:0}100%{opacity:1}}
+@keyframes show{0%{opacity:0}65%{opacity:1}100%{opacity:0}}
 </style>
 <rect x=".5" y=".5" width="799" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
 <circle cx="22" cy="20" r="5" fill="#ff5f56"/><circle cx="40" cy="20" r="5" fill="#ffbd2e"/><circle cx="58" cy="20" r="5" fill="#27c93f"/>
