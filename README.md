@@ -23,20 +23,11 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,maven&theme=dark)](https://skillicons.dev)
 
-## Interests
+## Interests & Current Focus
 
-Backend development · Distributed systems · Software architecture · Problem solving and algorithms · AI applications
-
-I'm particularly interested in **how systems communicate** and the design decisions that make software reliable and maintainable.
-
-## Current Focus
-
-- Deepening my Java and Spring Boot knowledge.
-- Learning distributed systems, asynchronous messaging, and system design.
-- Improving testing practices and code quality.
-- Building more complete full-stack applications.
-- Learning through collaboration and peer tutoring at WeThinkCode_.
-
+<img src="./assets/interests-focus-cat.svg"
+     alt="Interests and current focus"
+     width="100%" />
 
 ## GitHub Activity
 
