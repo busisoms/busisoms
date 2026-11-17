@@ -14,9 +14,9 @@
 
 **Databases & Messaging**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,rabbitmq&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,rabbitmq&theme=dark)](https://skillicons.dev)
 
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-242938?style=flat-square) ![Message Queues](https://img.shields.io/badge/Message_Queues-242938?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-242938?style=flat-square&logo=sqlite&logoColor=white) ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-242938?style=flat-square) ![Message Queues](https://img.shields.io/badge/Message_Queues-242938?style=flat-square)
 
 **Tools & Platforms**
 
