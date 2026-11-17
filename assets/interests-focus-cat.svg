@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430" role="img" aria-label="Mario-inspired GitHub terminal showing interests and current focus as JSON, with an orange pixel cat walking along the ground">
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
-.row{opacity:0;animation:appear .18s ease-out forwards}
-@keyframes appear{to{opacity:1}}
+.row{opacity:0;animation:appear 15s ease-out infinite}
+@keyframes appear{0%{opacity:0}2%,88%{opacity:1}90%,100%{opacity:0}}
 .cursor{animation:blink 1s step-end infinite}
 @keyframes blink{50%{opacity:0}}
 .walker{animation:walk 14s linear infinite}
