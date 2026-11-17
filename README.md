@@ -12,11 +12,12 @@
 
 ![Javalin](https://img.shields.io/badge/Javalin-242938?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-242938?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-242938?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-242938?style=flat-square)
 
-**Databases & Messaging**
+### Databases & Messaging
 
-[![Databases](https://skillicons.dev/icons?i=postgres,rabbitmq&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
-![SQLite](https://img.shields.io/badge/SQLite-242938?style=flat-square&logo=sqlite&logoColor=white) ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-242938?style=flat-square) ![Message Queues](https://img.shields.io/badge/Message_Queues-242938?style=flat-square)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-Message_Broker-242938)
+![Message Queues](https://img.shields.io/badge/Message_Queues-242938)
 
 **Tools & Platforms**
 
