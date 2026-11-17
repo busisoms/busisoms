@@ -1,40 +1,55 @@
-# Hi, I'm Busiso Ndumo 👋
+<div align="center">
+  <img src="./assets/terminal-header-cat.svg" alt="Animated terminal introduction for Busiso Ndumo, featuring a pixel-art cat" width="800" />
+</div>
 
-**Full-Stack Developer | Systems Automation Engineer | Open Source Contributor**
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/busiso_se)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:busisondumo1@gmail.com)
+**Languages**
 
-## 🛠️ Technical Stack
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-Proficient-00599C?logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-Intermediate-4EAA25?logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git/GitHub-Expert-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Admin-Intermediate-FCC624?logo=linux&logoColor=black)
+[![Languages](https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark)](https://skillicons.dev)
 
-## 🔍 Current Focus
-- Developing full-stack JavaScript applications
-- Creating system automation tools with Shell scripting
-- Contributing to open source infrastructure projects
-- Enhancing low-level programming expertise in C
+**Backend & Integration**
 
-[![GitHub Streak](https://github-readme-streak-stats-alpha-hazel.vercel.app?user=busisoms&theme=onedark-duo&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_height=180)](https://git.io/streak-stats)
+![Javalin](https://img.shields.io/badge/Javalin-242938?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-242938?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-242938?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-242938?style=flat-square)
 
-## 💡 Core Competencies
-- **Full-Stack Development**: Building responsive web applications with JavaScript/Python
-- **System Automation**: Creating efficient Shell scripts for DevOps workflows
-- **Problem Solving**: 3+ years debugging complex systems across stack levels
-- **Continuous Learning**: Completed 800+ hours of technical upskilling
+**Databases & Messaging**
 
-## 🚀 Recent Achievements
-- Automated deployment processes using Shell scripting (50% time reduction)
-- Built interactive web dashboard with JavaScript/Node.js
-- Contributed to open-source C library optimization
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,rabbitmq&theme=dark)](https://skillicons.dev)
 
-## 📬 Collaboration Opportunities
-- **Seeking**: Full-stack roles | DevOps positions | System programming projects
-- **Available**: Immediately for contracts or full-time positions
-- **Best Contact**: [Email](mailto:busisondumo1@gmail.com) or [LinkedIn](https://linkedin.com/in/busiso_se)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-242938?style=flat-square) ![Message Queues](https://img.shields.io/badge/Message_Queues-242938?style=flat-square)
 
-> "Bridging high-level application development with low-level system efficiency"
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,maven&theme=dark)](https://skillicons.dev)
+
+## Interests
+
+Backend development · Distributed systems · Software architecture · Problem solving and algorithms · AI applications
+
+I'm particularly interested in **how systems communicate** and the design decisions that make software reliable and maintainable.
+
+## Current Focus
+
+- Deepening my Java and Spring Boot knowledge.
+- Learning distributed systems, asynchronous messaging, and system design.
+- Improving testing practices and code quality.
+- Building more complete full-stack applications.
+- Learning through collaboration and peer tutoring at WeThinkCode_.
+
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busisoms&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for busisoms" />
+</div>
+
+## Connect
+
+I'm open to **junior software developer opportunities** and collaborating on interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busiso_se/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:busisondumo1@gmail.com)
+
+---
+
+<div align="center"><sub>Keep learning. Keep building.</sub></div>
